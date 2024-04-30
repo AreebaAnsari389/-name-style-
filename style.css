@@ -1,0 +1,15 @@
+/* Areeba Name with Font Color and Background Color */
+body::before {
+    content: "Areeba";
+    display: block;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50vh;
+    transform: translateY(-50%);
+    color: #ffffff; 
+    background-color: #ff00ff; 
+    padding: 10px 20px; 
+    border-radius: 10px; 
+  }
+  
